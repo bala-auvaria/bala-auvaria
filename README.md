@@ -14,7 +14,6 @@ Experienced and motivated Senior Solutions Architect | Cloud Consultant.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-**bala-auvaria/bala-auvaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!--
 Here are some ideas to get you started:
